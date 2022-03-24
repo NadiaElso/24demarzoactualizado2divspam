@@ -1,0 +1,60 @@
+.titulo {
+  margin: 0px;
+  border: 50px solid #059900;
+  width: 30px;
+  height: 20px;
+  text-align: center;
+  padding: 50px;
+  margin-top: 0px;
+}
+
+.lista1 {
+  width: 150px;
+  height: 310px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+.producto1 {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+.lista2 {
+  width: 150px;
+  height: 310px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+.producto2 {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+.lista3 {
+  width: 150px;
+  height: 510px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+.producto3 {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.carrito {
+  margin-inline: ;
+  border: 5px solid red;
+  text-align: center;
+  padding: 20px;
+}
+
+.azucar {
+  margin-inline: ;
+  border: 5px solid #059900;
+  text-align: center;
+  padding: 20px;
+}
+.precio {
+  font-size: 10px;
+}
+.stock {
+  font-size: 10px;
+}
